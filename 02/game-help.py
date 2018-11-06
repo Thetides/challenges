@@ -15,6 +15,7 @@ def draw_letters():
     pass
 
 
+
 def input_word(draw):
     """Ask player for a word and validate against draw.
     Use _validation(word, draw) helper."""
